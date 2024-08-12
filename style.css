@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+h2 {
+  font-size: 16px;
+  color: grey;
+}
+
+#cshImage img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    padding-bottom: 20px;
+}
+
+ul, li {
+  text-align: left;
+}
+
+#images img {
+  width: 40%;
+}
